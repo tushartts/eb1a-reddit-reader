@@ -1,5 +1,9 @@
 # eb1a-reddit-reader
 
+> **Status (Nov 2026):** Reddit has stopped accepting public API access
+> requests; new apps must run on its Developer Platform. This script therefore
+> cannot obtain credentials and is kept only as a record of the request.
+
 A read-only, one-time reader for public posts in r/eb_1a, for personal
 research into how self-petitioners documented their EB-1A cases.
 
